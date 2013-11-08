@@ -105,4 +105,5 @@ BOARD_SEPOLICY_UNION += \
         sensors_config.te \
         surfaceflinger.te \
         system_app.te \
-        system_server.te
+        system_server.te \
+        ueventd.te
